@@ -1,2 +1,3 @@
-print("Hello World")
-print("HAHAHA"
+print("Halo Orbit!")
+print("Belajar ML!")
+print("YES!")
